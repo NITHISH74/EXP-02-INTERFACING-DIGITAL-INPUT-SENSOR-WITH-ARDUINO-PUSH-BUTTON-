@@ -2,14 +2,14 @@
 
 ## AIM:  
 To interface a digital input (push button) and blink and LED upon activation.
-COMPONENTS REQUIRED:
+## COMPONENTS REQUIRED:
 1.	1 KΩ Resistor 
 2.	Arduino Uno 
 3.	Bread board 
 4.	USB Interfacing cable 
 5.	Jumper wires 
 6.	LED of choice 
-## THEORY :
+## THEORY:
 ### Arduino UNO
 The Uno is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
 
@@ -43,10 +43,6 @@ PIN DIAGRAM FOR ATMEGA 328
 4.	 .Execute the program 
 5.	Check the simulation 
 
-## CIRCUIT DIAGRAM:
-### FIGURE -03
-
-![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
 ## PROGRAM: 
  ```
